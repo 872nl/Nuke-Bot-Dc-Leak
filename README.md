@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Raid Tool By Butizada
+# Discord Raid Bot Leaked By Butizada
 
 Discord Raid Bot made with Node.js.
 
@@ -90,4 +90,5 @@ Use it at your own responsibility.
 
 Made with ❤️ by **Butizada**
 
+Bot Chat Gpt Final Boss
 </div>
